@@ -34,8 +34,8 @@ END_MESSAGE_MAP()
 
 // CHYTEST_INIT 消息处理程序
 
-#define FPGA_MEMSET_VER_DEVOPEN "FPGA Memory Set Tool V6.3.4*Device Connect"
-#define FPGA_MEMSET_VER_DEVCLOSE "FPGA Memory Set Tool V6.3.4*Device Disconnect"
+#define FPGA_MEMSET_VER_DEVOPEN "FPGA Memory Set Tool *Device Connect"
+#define FPGA_MEMSET_VER_DEVCLOSE "FPGA Memory Set Tool *Device Disconnect"
 
 static const GUID GUID_DEVINTERFACE_LIST[] = 
 {
